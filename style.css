@@ -1,0 +1,42 @@
+body{
+  margin: 1cm 2cm 1cm 2cm;
+}
+
+p{
+  font-size:22px
+}
+
+h3{
+  font-size:24px
+}
+
+ table,th,td{
+   font-size:22px
+ }
+
+li{
+  font-size: 22px;
+}
+
+ tr {
+  height:60px
+}
+
+a{
+  text-decoration: none;
+}
+
+.colum{
+  float: left;
+  width: 45%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.footer{
+  text-align: center;
+}
